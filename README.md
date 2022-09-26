@@ -9,4 +9,4 @@ Corresponding slides are in the `slides` directory. This repository will host co
 I conducted:
 
 1. Writing models in Keras ([slides](https://github.com/sayakpaul/ml-bootcamp-india-2022/blob/main/slides/Writing%20Models%20in%20Keras%20_%20MLB%202022.pdf) | [notebook](https://github.com/sayakpaul/ml-bootcamp-india-2022/blob/main/notebooks/writing-models.ipynb))
-2. TBA
+2. Preprocessing layers in Keras ([slides](https://github.com/sayakpaul/ml-bootcamp-india-2022/blob/main/slides/Preprocessing%20Layers%20in%20Keras%20_%20MLB%202022.pdf))
